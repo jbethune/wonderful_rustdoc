@@ -1,0 +1,14 @@
+[package]
+name = "wonderful_rustdoc"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["Jörn Bethune <joern@localhost>"]
+readme = "README.md"
+repository = "https://github.com/jbethune/wonderful_rustdoc"
+license = "CC BY-SA 4.0"
+keywords = [ "documentation", "rustdoc"]
+description = "Showcase how to use rustdoc in cargo"
+
+[dependencies]
+deutsche-bahn-delay-reasons = "0.2.0"
