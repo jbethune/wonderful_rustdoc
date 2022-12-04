@@ -6,7 +6,7 @@ edition = "2021"
 authors = ["Jörn Bethune <joern@localhost>"]
 readme = "README.md"
 repository = "https://github.com/jbethune/wonderful_rustdoc"
-license = "CC BY-SA 4.0"
+license = "MIT"
 keywords = [ "documentation", "rustdoc"]
 description = "Showcase how to use rustdoc in cargo"
 
